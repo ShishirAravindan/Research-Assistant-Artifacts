@@ -1,3 +1,6 @@
 [submodule "FSB_adDataAnalysis"]
 	path = FSB_adDataAnalysis
 	url = https://github.com/ShishirAravindan/Freedman_Bank_adDataAnalysis.git
+[submodule "CAPTCHA-solving-agent"]
+	path = CAPTCHA-solving-agent
+	url = https://github.com/ShishirAravindan/captcha-solving-agent.git
