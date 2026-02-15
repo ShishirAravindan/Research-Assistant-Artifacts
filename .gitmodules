@@ -4,3 +4,9 @@
 [submodule "CAPTCHA-solving-agent"]
 	path = CAPTCHA-solving-agent
 	url = https://github.com/ShishirAravindan/captcha-solving-agent.git
+[submodule "faculty-wage-consolidation"]
+	path = faculty-wage-consolidation
+	url = https://github.com/ShishirAravindan/faculty-wage-consolidation.git
+[submodule "DESS"]
+	path = DESS
+	url = https://github.com/ShishirAravindan/DESS.git
